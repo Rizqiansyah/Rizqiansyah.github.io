@@ -12,7 +12,6 @@ author: Akbar Rizqiansyah
 
 <!-- https://pw-probability-distribution-5pguj3vatwsnvyvnnmj7j5.streamlit.app/ -->
 
-<div>
-    <iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
+{% raw %}
+<iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+{% endraw %}
