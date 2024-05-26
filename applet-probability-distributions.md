@@ -7,7 +7,11 @@ comments: true
 mathjax: true
 author: Akbar Rizqiansyah
 css: /assets/css/streamlit.css
+full-width: true
+show-avatar: false
 ---
+
+test
 
 {% raw %}
 <div class="streamlit-container">
