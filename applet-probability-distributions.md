@@ -9,3 +9,4 @@ author: Akbar Rizqiansyah
 ---
 
 # Probability Distributions Applet
+Test
