@@ -9,9 +9,9 @@ author: Akbar Rizqiansyah
 ---
 
 # Probability Distributions Applet
-
+Test
 <!-- https://pw-probability-distribution-5pguj3vatwsnvyvnnmj7j5.streamlit.app/ -->
 
 {% raw %}
-<iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://pw-probability-distribution-5pguj3vatwsnvyvnnmj7j5.streamlit.app/" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
 {% endraw %}
