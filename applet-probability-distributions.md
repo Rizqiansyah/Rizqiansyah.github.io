@@ -13,5 +13,5 @@ Test
 <!-- https://pw-probability-distribution-5pguj3vatwsnvyvnnmj7j5.streamlit.app/ -->
 
 {% raw %}
-<iframe src="https://pw-probability-distribution-5pguj3vatwsnvyvnnmj7j5.streamlit.app/" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://pw-probability-distribution-5pguj3vatwsnvyvnnmj7j5.streamlit.app?embed=true" height="450px" width="100%" allowfullscreen="" frameborder="0"></iframe>
 {% endraw %}
