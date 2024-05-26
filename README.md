@@ -18,3 +18,14 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
 [^1]: Requires Bundler. Install with `gem install bundler`.
 
 [download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+
+# Addendum
+by: Akbar Rizqiansyah
+
+The easiest way to get this to work in github pages:
+1. Clone the repo
+1. Go to `_config.yml`, comment the line `theme: jekyll-theme-hydejack` and uncomment `remote_theme: hydecorp/hydejack@v9`
+1. Push
+1. Set the github pages
+
+Idk, if you still need to do the `bundle install` or not. 
