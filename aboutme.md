@@ -4,13 +4,17 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Akbar Rizqiansyah. I'm a PhD candidate at Monash University, Melbourne, Australia. 
+My topic is in Bridge Engineering. 
+I'm interested in:
+- Application of extreme value for prediction of live loading.
+- Bayesian statistics and hierarchical modelling.
+- Using engineering knowledge for modelling.
+- Long-term simulation of bridge loading.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Other topics I'm interested in, but not a main focus:
+- Reliability engineering
+- Value of information
+- Machine learning
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
