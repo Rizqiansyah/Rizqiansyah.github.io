@@ -6,7 +6,7 @@ tags: [probability, statistics, applet]
 comments: true
 mathjax: true
 author: Akbar Rizqiansyah
-css: streamlit.css
+css: /assets/css/streamlit.css
 ---
 
 {% raw %}
