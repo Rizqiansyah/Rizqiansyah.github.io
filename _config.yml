@@ -22,7 +22,7 @@ author: Akbar Rizqiansyah
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Statistics and Probability: 
+    - Statistics and Probability: "applet-probability-distributions"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
