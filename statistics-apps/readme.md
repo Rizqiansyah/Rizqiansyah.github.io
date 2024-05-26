@@ -5,7 +5,7 @@ description: >
   Small apps to help understand probability and statistics concepts.
 hide_description: true
 sitemap: true
-permalink: /probability-statistics/
+permalink: /statistics-apps/
 ---
 
 Here you can find small apps that to help understand probability and statistics concepts.
