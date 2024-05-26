@@ -6,12 +6,11 @@ tags: [probability, statistics, applet]
 comments: true
 mathjax: true
 author: Akbar Rizqiansyah
+css: streamlit.css
 ---
 
-# Probability Distributions Applet
-Test
-<!-- https://pw-probability-distribution-5pguj3vatwsnvyvnnmj7j5.streamlit.app/ -->
-
 {% raw %}
-<iframe src="https://pw-probability-distribution-5pguj3vatwsnvyvnnmj7j5.streamlit.app?embed=true" height="450px" width="100%" allowfullscreen="" frameborder="0"></iframe>
+<div class="streamlit-container">
+    <iframe src="https://pw-probability-distribution-5pguj3vatwsnvyvnnmj7j5.streamlit.app?embed=true" height="450px" width="100%" allowfullscreen="" frameborder="0"></iframe>
+</div>
 {% endraw %}
