@@ -362,7 +362,7 @@ plugins:
 
 # Used on index and about sites
 social:
-  name:                <firstname> <lastname>
+  name:                Akbar Rizqiansyah
   links:
      - https://www.linkedin.com/in/akbar-rizqiansyah-a90695183/
      - https://github.com/Rizqiansyah
